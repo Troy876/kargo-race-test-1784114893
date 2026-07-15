@@ -4,4 +4,4 @@ metadata:
   name: race-test
   namespace: default
 data:
-  version: "v1"
+  version: "v2-promotion"
