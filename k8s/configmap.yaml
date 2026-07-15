@@ -1,0 +1,7 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: race-test
+  namespace: default
+data:
+  version: "v1"
