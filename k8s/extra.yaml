@@ -1,0 +1,7 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: race-test-extra
+  namespace: default
+data:
+  note: "concurrent merge"
